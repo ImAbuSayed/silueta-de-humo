@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Silueta de humo
+
+This log tracks the cryptographic history and versioning for the song **Silueta de humo** (silueta-de-humo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:09:59.253544 | `v1` | `8cb5af6cd97cd8956b6575a550e70a073c8bc9e9f8807f835ae93db005f8503f` | `c5edf0d1aa34e3c85cd837f51057bda0c2dfe2e8a6e21a5878c251c37d84e557` | `2026-06-19_silueta-de-humo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

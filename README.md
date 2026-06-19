@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silueta-de-humo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Silueta de humo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-de-humo/) |
+| **Get License** | [Music Rights & Licensing for Silueta de humo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-de-humo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8cb5af6cd97cd8956b6575a550e70a073c8bc9e9f8807f835ae93db005f8503f` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
