@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silueta-de-humo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Silueta de humo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-de-humo/) |
+| **Get License** | [Commercial Licensing for Silueta de humo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-de-humo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Te vi bailando en la sombra, mi silueta de humo,
+> Atrapado en tu mirada, este deseo lo asumo.
+> Acércate a mi lado, rompiendo la distancia,
+> Que la noche pide a gritos probar tu fragancia.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
